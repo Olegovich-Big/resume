@@ -1,0 +1,22 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Honk&family=Roboto&display=swap');
+
+body {
+    background-color: lavender;
+    color: #0f141e;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    line-height: 20px;
+    font-weight: normal;
+    letter-spacing: 0.5px;
+}
+
+.subtitle {
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.card {
+    border: 5px #631c72 solid;
+    border-radius: 10px;
+    background-color: mintcream
+}
